@@ -4,7 +4,7 @@
 
 #define STR_LEN 10
 #define SUB_LEN 5
-#define INPUT_LINES 3
+#define INPUT_LINES 24
 
 typedef struct node
 {
